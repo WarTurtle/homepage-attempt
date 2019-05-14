@@ -9,3 +9,5 @@ Officially I'm an undergraduate at Utah State University working towards and Bac
 In the apocalypse-game repository is the current version of the Cache-Valley Simulator, a javascript-based browser game that simulates environmental challenges that facing community planners around the world. This game has served as a way for the members of the USU Bio Nerd Herd to learn javascript. By programming more of our ideas in javascript, we feel that our research will be able to reach a wider audience. Namely, anyone with a web-browser. Click [here](https://warturtle.github.io/apocalypse-jt-fork/) to see what you think!
 
 ## [The Seedscape Ecology Group](http://seedscape.github.io/BeckmanLab/)
+
+I've been working with Dr. Beckman in her lab since January of 2018. 
