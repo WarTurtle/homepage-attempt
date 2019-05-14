@@ -10,4 +10,4 @@ In the apocalypse-game repository is the current version of the Cache-Valley Sim
 
 ## [The Seedscape Ecology Group](http://seedscape.github.io/BeckmanLab/)
 
-I've been working with Dr. Beckman in her lab since January of 2018. My focus has been on developing programmatic models that can represent the effects of seed predators and seed dispersers on populations of seeds.
+I've been working with Dr. Beckman in her lab since January of 2018. My focus has been on developing programmatic models that can represent the effects of seed predators and seed dispersers on populations of seeds. test test
