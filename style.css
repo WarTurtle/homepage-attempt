@@ -98,7 +98,7 @@ a:hover {
 
 #logo h1 a {
 	color: #908F8F;
-	text-transform: uppercase;
+	text-transform: none;
 }
 
 #logo p {
